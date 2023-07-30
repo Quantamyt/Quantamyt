@@ -22,11 +22,15 @@ Here are some of the projects I've been working on:
 
 A feature-rich Minecraft client with custom mods, optimizations, and an immersive user interface.
 
+### Fluid Network - [Fluid Network](https://github.com/Fluid-Client-Development)
+
+A Minecraft 1.8 pvp server with custom mods, optimizations, and an immersive user interface.
+
 ... (Most of them are private so ye.)
 
 ## Get in Touch
 
-I'm always open to collaboration and exciting new opportunities. If you'd like to get in touch, feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile). Let's chat about coding, projects, or anything tech-related!
+I'm always open to collaboration and exciting new opportunities. If you'd like to get in touch, feel free to reach out to me via [email](mailto:quantamyt19@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile). Let's chat about coding, projects, or anything tech-related!
 
 ## Let's Code Together!
 
