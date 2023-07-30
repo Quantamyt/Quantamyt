@@ -1,6 +1,21 @@
 # qua1am - Developer.
 
-![GitHub Profile](https://github.com/Quantamyt)
+> ```java
+> public class qua1am {
+>     private static final String NAME = "qua1am";
+>     private static final String ROLE = "Java Developer | Minecraft Enthusiast | Code Crafter";
+>     private static final String GITHUB = "https://github.com/qua1am";
+>     
+>     public static void main(String[] args) {
+>         System.out.println("Welcome to my coding sanctuary!");
+>         System.out.println("Sigma: (Σ) ∑ The sum of possibilities and creativity.");
+>         System.out.println("GitHub: " + GITHUB);
+>         System.out.println("Role: " + ROLE);
+>         System.out.println("Let's embark on a journey of endless innovation and craft stunning code!");
+>         System.out.println("May the sigma of code guide us to create magic in the digital realm. 🎩✨");
+>     }
+> }
+> ```
 
 ## Hey there! 👋
 
