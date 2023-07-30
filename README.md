@@ -22,15 +22,7 @@ Here are some of the projects I've been working on:
 
 A brief description of Project 1. Mention its purpose, key features, and any significant achievements.
 
-### Project 2 - [Project Name](https://github.com/qua1am/Project-Name)
-
-A brief description of Project 2. Highlight its uniqueness and what it brings to the table.
-
-### Project 3 - [Project Name](https://github.com/qua1am/Project-Name)
-
-A brief description of Project 3. Discuss any challenges faced and how they were overcome.
-
-... (Feel free to add more projects here)
+... (Most of them are private so ye.)
 
 ## Get in Touch
 
