@@ -18,9 +18,9 @@ I'm enthusiastic about coding and have a wide range of skills in different progr
 
 Here are some of the projects I've been working on:
 
-### Project 1 - [Project Name](https://github.com/qua1am/Project-Name)
+### Fluid Client - [Fluid Client](https://github.com/Fluid-Client-Development)
 
-A brief description of Project 1. Mention its purpose, key features, and any significant achievements.
+A feature-rich Minecraft client with custom mods, optimizations, and an immersive user interface.
 
 ... (Most of them are private so ye.)
 
