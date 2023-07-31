@@ -45,7 +45,7 @@ A Minecraft 1.8 pvp server with custom mods, optimizations, and an immersive use
 
 ## Get in Touch
 
-I'm always open to collaboration and exciting new opportunities. If you'd like to get in touch, feel free to reach out to me via [email](mailto:quantamyt19@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile). Let's chat about coding, projects, or anything tech-related!
+I'm always open to collaboration and exciting new opportunities. If you'd like to get in touch, feel free to reach out to me via [email](mailto:quantamyt19@gmail.com) or connect with me on [Twitter](twitter.com/Quantam_). Let's chat about coding, projects, or anything tech-related!
 
 ## Let's Code Together!
 
