@@ -4,7 +4,7 @@
 > public class qua1am {
 >     private static final String NAME = "qua1am";
 >     private static final String ROLE = "Java Developer | Minecraft Enthusiast | Code Crafter";
->     private static final String GITHUB = "https://github.com/qua1am";
+>     private static final String GITHUB ="https://github.com/Quantamyt";
 >     
 >     public static void main(String[] args) {
 >         System.out.println("Welcome to my coding sanctuary!");
