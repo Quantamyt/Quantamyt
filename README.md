@@ -29,6 +29,12 @@ I'm enthusiastic about coding and have a wide range of skills in different progr
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quantamyt&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
+
+## Discord 
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1121050952628183152)
+
+
 ## Featured Projects
 
 Here are some of the projects I've been working on:
