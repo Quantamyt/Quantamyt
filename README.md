@@ -58,3 +58,7 @@ I'm always open to collaboration and exciting new opportunities. If you'd like t
 If you find any of my projects interesting or have ideas for collaboration, don't hesitate to create issues, submit pull requests, or simply drop a star ⭐ on the repositories you like. Your contributions and feedback are highly appreciated!
 
 Thank you for visiting my GitHub profile. Happy coding! 🚀
+
+## Skills
+
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,typescrip,csharp,cppt&includeNames=true"></p>
