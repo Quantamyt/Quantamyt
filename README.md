@@ -1,4 +1,4 @@
-# qua1am - Developer.
+# quantam - Developer.
 
 > ```java
 > public class qua1am {
