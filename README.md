@@ -29,6 +29,8 @@ I'm enthusiastic about coding and have a wide range of skills in different progr
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quantamyt&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantamyt&theme=tokyonight" alt="mystreak"/>
+
 
 ## Discord 
 
