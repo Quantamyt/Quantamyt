@@ -63,4 +63,4 @@ Thank you for visiting my GitHub profile. Happy coding! 🚀
 
 ## Skills
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,typescrip,csharp,cppt&includeNames=true"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,python,html,css,javascript,typescript,csharp,cpp&includeNames=true"></p>
