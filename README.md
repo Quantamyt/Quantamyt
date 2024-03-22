@@ -31,6 +31,9 @@ I'm enthusiastic about coding and have a wide range of skills in different progr
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quantamyt&theme=tokyonight" alt="mystreak"/>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Quantamyt&label=Profile%20views&color=0e75b6&style=flat" alt="refactorinqq" /> </p>
+
+
 
 ## Discord 
 
